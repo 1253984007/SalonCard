@@ -1,0 +1,6 @@
+framework module Pods_SalonCard_mobile {
+  umbrella header "Pods-SalonCard-mobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
